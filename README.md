@@ -5,7 +5,7 @@ This project displays a web page allowing visitors to review some of my favourit
 The project consists of 3 files:
 * media.py
 * entertainment_center.py
-* fresh_tomatoes.py
+* fresh_tomatoes.py (authored by Udacity)
 
 To view the webpage:
 * download all 3 files to the same folder
